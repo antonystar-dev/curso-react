@@ -8,6 +8,6 @@ Para iniciar o react eu tenho q usar o npm start
 3- A arvore do React conta com uns arquivos temporarios, praticamente so uso as pastas public e src, as demais são
  temporarias e quando reinstalo elas são geradas.
 
-4- o projeto é setado no arquivo App.js, ele que é a pg principal que puxa os conponentes.
+4- o projeto é setado no arquivo App.js, ele que é a pg principal que puxa os componentes.
 
-Para
+5- A declaração da palavra Class no react será className, visto que Class é uma palavra reservada.
