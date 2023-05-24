@@ -1,5 +1,6 @@
 
 import './App.css';
+import OlaMundo from './components/OlaMundo';
 
 function App() {
   const name = 'Antonio'
@@ -9,7 +10,9 @@ function App() {
       <h2>Meu programa</h2>
       <p>Olá, {name}</p>
       <img src={url} height="50px"alt="Imagem teste"/>
+      <OlaMundo/>
       </div>
+      
     
   );
 }

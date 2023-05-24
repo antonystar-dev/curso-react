@@ -11,3 +11,8 @@ Para iniciar o react eu tenho q usar o npm start
 4- o projeto é setado no arquivo App.js, ele que é a pg principal que puxa os componentes.
 
 5- A declaração da palavra Class no react será className, visto que Class é uma palavra reservada.
+
+6- Dentro da pasta src é criado a pasta Components na qual tem a função de guardar a estrutura do site(arvore)
+posso criar outras subpastas para melhor organização(forms, buttons....)
+
+7- Posso exportar um componente dentro de outro componente
