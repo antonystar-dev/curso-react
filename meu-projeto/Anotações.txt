@@ -15,4 +15,4 @@ Para iniciar o react eu tenho q usar o npm start
 6- Dentro da pasta src é criado a pasta Components na qual tem a função de guardar a estrutura do site(arvore)
 posso criar outras subpastas para melhor organização(forms, buttons....)
 
-7- Posso exportar um componente dentro de outro componente
+7- Posso exportar um componente dentro de outro componente. As props são valores passados para os componentes;
