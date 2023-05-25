@@ -16,3 +16,6 @@ Para iniciar o react eu tenho q usar o npm start
 posso criar outras subpastas para melhor organização(forms, buttons....)
 
 7- Posso exportar um componente dentro de outro componente. As props são valores passados para os componentes;
+
+8- Para utilizar o CSS posso usar o arquivo Index.css(pasta src) para o estilo global mas tbm posso editar
+ diretamente os componentes específicos ai é aconselhavel eu criar componente.module.css na pasta components
