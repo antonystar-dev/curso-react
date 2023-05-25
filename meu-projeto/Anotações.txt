@@ -19,3 +19,6 @@ posso criar outras subpastas para melhor organização(forms, buttons....)
 
 8- Para utilizar o CSS posso usar o arquivo Index.css(pasta src) para o estilo global mas tbm posso editar
  diretamente os componentes específicos ai é aconselhavel eu criar componente.module.css na pasta components
+
+ 9- No lugar da div padrão posso usar o <></> no lugar, onde ele ajuda a deixar o codigo mais 
+ limpo sem a necessidade de ficar enchendo de div. Esse recurso é chamado de Fragment
