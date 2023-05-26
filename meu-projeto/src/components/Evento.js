@@ -1,6 +1,6 @@
 function Evento(){
     function meuEvento(){
-        document.write('Ummmmm.... clicou mesmo')
+        console.log('Ummmmm.... clicou mesmo')
     }
     return(
         <>
